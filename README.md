@@ -1,4 +1,4 @@
-# 🏠 Lumora Estates
+## 🏠 Lumora Estates
 
 > A modern and responsive real-estate web application built with React, TypeScript, and Vite.
 
