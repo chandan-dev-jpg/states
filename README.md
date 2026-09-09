@@ -33,7 +33,7 @@ The project focuses on reusable React components, responsive UI, smooth interact
 * React
 * TypeScript
 * Vite
-* Bootstrap
+* Tailwind CSS
 * HTML5
 * CSS3
 
